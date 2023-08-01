@@ -1,0 +1,12 @@
+.footer {
+  background-color: #7ea1cf;
+  display: flex;
+  justify-content: start;
+  margin-left: 300px;
+  gap: 5px;
+  /* padding-left: 20px 1300px 20px 300px; */
+  /* background-image: url(https://plus.unsplash.com/premium_photo-1675644727129-9e2fbc03c500?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2544&q=80); */
+  background: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
